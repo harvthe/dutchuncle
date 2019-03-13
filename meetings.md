@@ -22,6 +22,8 @@ But wait, there is another button!
 It is called <h2>scheduling!</h2> This miracle button can save many people a lot of time. Unfortunately the wonder minds of Microsoft haven’t fully figured out on how to make this work outside your company (unless you are lucky) but it definitely works for the people within your company. Surprise it shows when they are available for a meeting!!!!
 
 Now for that monthly pay check you are getting, people are actually expecting you to pick a meeting time when everyone is available. Mail is outdated, some of us really don’t like it, so sending invites to people on times when they are not available, annoys us!
+<br>
+![schedulingview](meet3.png)
 
 Look for the light coloured free spots, if somebody has a “coloured” block, it means they might have something else on! (please note purple is out of office (yes people let people know when they are away, it’s amazing! – blue is generally busy, and light blue is tentative) (or it might be a non committing colleague who doesn’t want to let you know if he is going to attend a meeting, this also annoys the crap out of us, having to dial into a meeting to find out who is going to join, really not polite, wasting our time, again if you are earning anything over 100k, and you are doing this… you are not worth the money)
 
