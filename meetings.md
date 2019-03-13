@@ -1,7 +1,7 @@
 # meetings
 <h1>Oops you had one job</h1>
 
-![you had one job giphy](https://media.giphy.com/media/OA7lSFiRw0gyA/giphy.gif)
+![you had one job giphy](onejob.gif)
 
 You had one job, schedule a meeting and it looks like you stuffed it up!
 
