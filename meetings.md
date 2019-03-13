@@ -17,7 +17,7 @@ To start, the below is the standard screen you are using to book your meetings:
 
 But wait, there is another button!
 <br>
-![scheduling][meet2.png)
+![scheduling](meet2.png)
 
 It is called <h2>scheduling!</h2> This miracle button can save many people a lot of time. Unfortunately the wonder minds of Microsoft haven’t fully figured out on how to make this work outside your company (unless you are lucky) but it definitely works for the people within your company. Surprise it shows when they are available for a meeting!!!!
 
