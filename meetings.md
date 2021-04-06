@@ -32,4 +32,4 @@ So your mission, if you choose to accept it, re-send the meeting invite you trie
 Now, for the excuses why someones schedule might not be up to date, and you can't use the schedulign function:
 -	My outlook calendar is not up to date for my availability. (as in, I have “business meetings” which I don’t put in my business outlook) - Sorry, during business time you got paid to do a job, if you have a meeting, just put it in your calendar.
 
-the next blogs will be about people not accepting meeting invites 
+the next blogs will be about people not accepting meeting invites

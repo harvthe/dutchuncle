@@ -1,8 +1,9 @@
-What is Digital Sprawl or API Sprawl, do I need it? How do we get rid of it?
+<h1>What is Digital Sprawl or API Sprawl, do I need it? How do we get rid of it?</h1>
 
-How to combat API Sprawl.
+<h2>How to combat API Sprawl.</h2>
 
 I am not a native English speaker, and it took me about 5 presentations where people used the “fashion word” API Sprawl to google sprawl. So what is it? To quote Cambridge Dictionary sprawl means: a position with the arms and legs spread out carelessly and untidily while sitting or lying down. It already mentions that the word is more often used when talking about to identify “unrestricted growth in many urban areas of housing commercial development, and roads over large expanses of land, with little concern for urban planning” in other words, Urban Sprawl.
+<br>
 
 Luckily Urban Sprawl is much harder to manage than Digital, or API Sprawl. Managing Urban sprawl requires you to manage the Infrastructure to get people from A to B, but it gets really complex when you are managing pollution, water, energy.
 
@@ -23,14 +24,13 @@ In order for companies to thrive in a digital world, it is also important to com
 Combatting API sprawl often starts with focussing on re-use of APIs. The biggest problem by far is how easy it is to create an API. The. Below points are helping in re-use:
 
 2.	Focus on visibility
-As with the roads, it is of no use to have an API if we haven’t got a central catalogue which gets automatically updated with the capabilities of the API. It is nice for the catalogue to say the number of streetlights, the maximum speed, but we really sometimes need somebody to say what the road leads to, what does the API do? APIs are harder to explain than roads, make sure you have the correct people who can outline what the business value of the API is.
+As with the roads, it is of no use to have an API if we haven’t got a central catalogue which gets automatically updated with the capabilities of the API. It is nice for the catalogue to say the number of streetlights, the maximum speed, but we really sometimes need somebody to say what the road leads to, what does the API do? APIs are harder to explain than roads, make sure you have the correct people who can outline what the business value of the API is. A central catalogue is not just a list of swaggers (or OAS3 definitions) on a HTML page! It is a simple tool which allows you to get from A to B by finding the best APIs!
 3.	Create Trust
 Developers have learned through thick and thin not to trust other people’s work. For a developer to use another developers API, he needs a lot of re-assurance that the API will do what it says in the documentation. Creating trust is not easy! Start with making sure that any developer can “test” the API, even if the real backend can’t be used, have a test version of the API so the developer can have instant access to see if the API is fit for purpose. As any webshop, it is good to give developers a feedback loop, allow developers to give feedback rating 1-5 stars) or even better have a forum where developers help developers with questions on the API, this will give confidence there is a future for the API!  
 4.	Create a house style for your APIs
 This goes without saying, but it requires a lot of effort! Everyone understands that we need similar rules and signs for our city’s roads, we want them to look similar, although some of them might server different purposes. If not, it would get very confusing for the people using that road. It goes without saying that without a clear Digital Identity a company will never thrive. API guidelines are at the start, easy to create, much harder to be enforced. A good API design tool will be your best friend, but in some cases you want to invest in the right people who can motivate the rest of the company to do the right thing in regard with how the APIs are designed.
 5.	Make it easy!
 We have the tendency to make thing complicated. Sometimes there is a new person joining our city and he might want to consume the road, or create a new route to go to work. When new people join it should be easy to read how to make APIs, how to conform to the guidelines, and the tools should be ready to hand over their API to the ecosystem. Similar with getting access to the API, make it easy! There are many examples with our city infrastructure where people always choose the path of least resistance!
-
 But most of all, we need Simple APIs and we need them to stay simple and clean. This is incredibly hard. It is very easy to create a complex API, to create a simple and clean API and to keep it simple is digital art, and unfortunately the most underestimated skill of this decennia. But imagine what a simple API can do for your business, getting back to our credit check API, if only we had to provide a customer name, phone number, driver license id, medicare card number in a Get to get a simple response.. wouldn’t it empower your digital innovations?
 
 6.	Provide Quality (APIs)
